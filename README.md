@@ -22,6 +22,7 @@ A Windows Service built with C# that monitors a specified source folder for newl
 Watch my detailed explanation of this project on YouTube:
 
 [![Folder Monitor Windows Service Tutorial](https://youtu.be/XBLhyoAqXiE?si=D2IxaPboL7d7HlSL)
+[![Folder Monitor Windows Service Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/XBLhyoAqXiE?si=D2IxaPboL7d7HlSL)
 
 In this video, I walk through:
 - 🎯 Project overview and use cases
